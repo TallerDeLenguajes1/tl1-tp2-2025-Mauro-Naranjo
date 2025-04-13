@@ -1,0 +1,3 @@
+f) No puedo ver el archivo tp2_1_2.c porque estoy parado en una rama diferente a la que lo contiene.
+ La diferencia es que ahora con los commit se visualiza mejor la division de las ramas.
+ Noto que la rama opcion_2 se unio con main y respuestas.txt ahora forma parte.
